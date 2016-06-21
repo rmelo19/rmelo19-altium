@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VCC Pin=PTN4H_1.-0
+Removed Pin From Net: NetName=GND Pin=PTN4H_1.-1
+Removed Pin From Net: NetName=SDA Pin=PTN4H_1.-2
+Removed Pin From Net: NetName=SCL Pin=PTN4H_1.-3
+Removed Member From Class: ClassName=board Member=PTN4H_1.
+Added Component: Designator=PTN4H_1(PTN4H)
+Added Pin To Net: NetName=VCC Pin=PTN4H_1-0
+Added Pin To Net: NetName=GND Pin=PTN4H_1-1
+Added Pin To Net: NetName=SDA Pin=PTN4H_1-2
+Added Pin To Net: NetName=SCL Pin=PTN4H_1-3
+Added Member To Class: ClassName=board Member=Component PTN4H_1 PTN4H
