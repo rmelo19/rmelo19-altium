@@ -1,0 +1,71 @@
+Change Component Comment : Designator=C13 Old Comment=4.7uf New Comment=1uF
+Change Component Comment : Designator=C14 Old Comment=4.7uf New Comment=1uF
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=VCC Pin=IC7-1
+Added Pin To Net: NetName=GND Pin=IC7-3
+Added Pin To Net: NetName=VCC Pin=IC7-4
+Added Pin To Net: NetName=RST01_2 Pin=IC7-5
+Added Pin To Net: NetName=SDA Pin=IC7-7
+Added Pin To Net: NetName=SCL Pin=IC7-8
+Added Pin To Net: NetName=VCC Pin=IC8-1
+Added Pin To Net: NetName=GND Pin=IC8-3
+Added Pin To Net: NetName=VCC Pin=IC8-4
+Added Pin To Net: NetName=RST02_2 Pin=IC8-5
+Added Pin To Net: NetName=SDA Pin=IC8-7
+Added Pin To Net: NetName=SCL Pin=IC8-8
+Added Pin To Net: NetName=VCC Pin=IC9-1
+Added Pin To Net: NetName=GND Pin=IC9-3
+Added Pin To Net: NetName=VCC Pin=IC9-4
+Added Pin To Net: NetName=RST03_2 Pin=IC9-5
+Added Pin To Net: NetName=SDA Pin=IC9-7
+Added Pin To Net: NetName=SCL Pin=IC9-8
+Added Pin To Net: NetName=VCC Pin=IC10-1
+Added Pin To Net: NetName=GND Pin=IC10-3
+Added Pin To Net: NetName=VCC Pin=IC10-4
+Added Pin To Net: NetName=RST04_2 Pin=IC10-5
+Added Pin To Net: NetName=SDA Pin=IC10-7
+Added Pin To Net: NetName=SCL Pin=IC10-8
+Added Pin To Net: NetName=VCC Pin=IC11-1
+Added Pin To Net: NetName=GND Pin=IC11-3
+Added Pin To Net: NetName=VCC Pin=IC11-4
+Added Pin To Net: NetName=RST05_2 Pin=IC11-5
+Added Pin To Net: NetName=SDA Pin=IC11-7
+Added Pin To Net: NetName=SCL Pin=IC11-8
+Added Pin To Net: NetName=VCC Pin=IC12-1
+Added Pin To Net: NetName=GND Pin=IC12-3
+Added Pin To Net: NetName=VCC Pin=IC12-4
+Added Pin To Net: NetName=SDA Pin=IC12-7
+Added Pin To Net: NetName=SCL Pin=IC12-8
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Pin To Net: NetName=GND Pin=U2-21
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=IC7-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=IC8-2
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=IC9-2
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=IC10-2
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=IC11-2
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=IC12-2
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=RESET Pin=U1-13
+Added Pin To Net: NetName=RESET Pin=U2-13
+Added Net: Name=RESET
+Added Pin To Net: NetName=RST06_2 Pin=IC12-5
+Added Pin To Net: NetName=RST06_2 Pin=U2-15
+Added Net: Name=RST06_2
+Added Room: Name=board

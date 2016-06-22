@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=IC3 Old Footprint=MPL115A2 - duplicate New Footprint=MPL115A2
+Added Component: Designator=P?(MHDR1X6)
+Added Member To Class: ClassName=board Member=Component P? MHDR1X6
+Added Room: Name=board

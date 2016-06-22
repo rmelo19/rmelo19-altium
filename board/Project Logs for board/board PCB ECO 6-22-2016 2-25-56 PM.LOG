@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=SDA Pin=PTN-2
+Removed Pin From Net: NetName=SCL Pin=PTN-3
+Change Component Footprint: Designator=C2 Old Footprint=C0402NOMECH New Footprint=C0402
+Change Component Footprint: Designator=C3 Old Footprint=C0402NOMECH New Footprint=C0402
+Change Component Footprint: Designator=C4 Old Footprint=C0402NOMECH New Footprint=C0402
+Change Component Footprint: Designator=C5 Old Footprint=C0402NOMECH New Footprint=C0402
+Change Component Footprint: Designator=C6 Old Footprint=C0402NOMECH New Footprint=C0402
+Change Component Footprint: Designator=C11 Old Footprint=C0402NOMECH New Footprint=C0402
+Change Component Footprint: Designator=C14 Old Footprint=C0402NOMECH New Footprint=C0402
+Change Component Footprint: Designator=J1 Old Footprint=CON4THR127NOSILK New Footprint=CON4THR127
+Change Component Footprint: Designator=J2 Old Footprint=CON4THR127NOSILK New Footprint=CON4THR127
+Added Pin To Net: NetName=SCL Pin=PTN-2
+Added Pin To Net: NetName=SDA Pin=PTN-3
+Added Room: Name=board

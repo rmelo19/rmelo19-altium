@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=VCC Pin=IC7-1
+Removed Pin From Net: NetName=GND Pin=IC7-3
+Removed Pin From Net: NetName=VCC Pin=IC7-4
+Removed Pin From Net: NetName=RST01_2 Pin=IC7-5
+Removed Pin From Net: NetName=SDA Pin=IC7-7
+Removed Pin From Net: NetName=SCL Pin=IC7-8
+Removed Pin From Net: NetName=VCC Pin=IC8-1
+Removed Pin From Net: NetName=GND Pin=IC8-3
+Removed Pin From Net: NetName=VCC Pin=IC8-4
+Removed Pin From Net: NetName=RST02_2 Pin=IC8-5
+Removed Pin From Net: NetName=SDA Pin=IC8-7
+Removed Pin From Net: NetName=SCL Pin=IC8-8
+Removed Pin From Net: NetName=VCC Pin=IC9-1
+Removed Pin From Net: NetName=GND Pin=IC9-3
+Removed Pin From Net: NetName=VCC Pin=IC9-4
+Removed Pin From Net: NetName=RST03_2 Pin=IC9-5
+Removed Pin From Net: NetName=SDA Pin=IC9-7
+Removed Pin From Net: NetName=SCL Pin=IC9-8
+Removed Pin From Net: NetName=VCC Pin=IC10-1
+Removed Pin From Net: NetName=GND Pin=IC10-3
+Removed Pin From Net: NetName=VCC Pin=IC10-4
+Removed Pin From Net: NetName=RST04_2 Pin=IC10-5
+Removed Pin From Net: NetName=SDA Pin=IC10-7
+Removed Pin From Net: NetName=SCL Pin=IC10-8
+Removed Pin From Net: NetName=VCC Pin=IC11-1
+Removed Pin From Net: NetName=GND Pin=IC11-3
+Removed Pin From Net: NetName=VCC Pin=IC11-4
+Removed Pin From Net: NetName=RST05_2 Pin=IC11-5
+Removed Pin From Net: NetName=SDA Pin=IC11-7
+Removed Pin From Net: NetName=SCL Pin=IC11-8
+Removed Pin From Net: NetName=VCC Pin=IC12-1
+Removed Pin From Net: NetName=GND Pin=IC12-3
+Removed Pin From Net: NetName=VCC Pin=IC12-4
+Removed Pin From Net: NetName=SDA Pin=IC12-7
+Removed Pin From Net: NetName=SCL Pin=IC12-8
+Removed Pin From Net: NetName=VCC Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=U1-8
+Removed Pin From Net: NetName=GND Pin=U1-21
+Removed Pin From Net: NetName=GND Pin=U2-8
+Removed Pin From Net: NetName=GND Pin=U2-11
+Removed Pin From Net: NetName=GND Pin=U2-21
+Change Component Footprint: Designator=J1 Old Footprint=CON4THR127 New Footprint=CON4THR127NOSILK
+Change Component Footprint: Designator=J2 Old Footprint=CON4THR127 New Footprint=CON4THR127NOSILK
+Added Room: Name=board
