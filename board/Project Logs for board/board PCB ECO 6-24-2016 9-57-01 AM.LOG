@@ -1,0 +1,7 @@
+Added Member To Class: ClassName=board Member=Component C1 1uF
+Added Member To Class: ClassName=board Member=Component IC7 MPL115A2
+Added Member To Class: ClassName=board Member=Component IC8 MPL115A2
+Added Member To Class: ClassName=board Member=Component IC11 MPL115A2
+Added Member To Class: ClassName=board Member=Component J2 CON6THR127
+Added Member To Class: ClassName=board Member=Component U2 ATTINY24A-MU-QFN20
+Added Room: Name=board

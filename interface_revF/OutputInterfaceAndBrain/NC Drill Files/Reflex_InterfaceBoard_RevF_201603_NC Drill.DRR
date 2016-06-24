@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ReflexInterfaceAndBrainRevF.PcbDoc   5/20/2016  3:03:40 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Reflex_InterfaceBoard_RevF_201603_NC Drill.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             215       PTH        40.39inch (1026.00mm)
+T2      12mil (0.305mm)                                           Round             55        PTH        21.30inch (541.12mm)
+T3      13mil (0.33mm)                                            Round             5         PTH        1.37inch (34.85mm)
+T4      29mil (0.737mm)                                           Round             18        PTH        0.85inch (21.59mm)
+T5      32mil (0.8mm)                                             Round             3         PTH        0.20inch (5.03mm)
+T6      35mil (0.889mm)                                           Round             4         PTH        0.30inch (7.62mm)
+T7      35mil (0.9mm)                                             Round             22        PTH        8.59inch (218.15mm)
+T8      79mil (2mm)                                               Round             2         PTH        0.62inch (15.72mm)
+T9      100mil (2.54mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T10     114mil (2.896mm)                                          Round             5         PTH        8.30inch (210.73mm)
+T11     118mil (2.997mm)                                          Round             1         PTH        0.00inch (0.00mm)
+T12     118mil (3mm)                                              Round             1         PTH        0.00inch (0.00mm)
+T13     126mil (3.2mm)                                            Round             2         PTH        0.45inch (11.43mm)
+T14     138mil (3.505mm)                                          Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              335
+
+Total Processing Time (hh:mm:ss) : 00:00:00

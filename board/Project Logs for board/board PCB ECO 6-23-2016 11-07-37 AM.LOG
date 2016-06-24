@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=J1 Old Footprint=CON6THR127 New Footprint=CON6THR127NOSILK
+Change Component Footprint: Designator=J2 Old Footprint=CON6THR127 New Footprint=CON6THR127NOSILK
+Added Room: Name=board

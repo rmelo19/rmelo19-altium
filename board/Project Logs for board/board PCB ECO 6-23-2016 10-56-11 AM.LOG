@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C11 Old Footprint=C0402NOMECH New Footprint=C0402
+Change Component Footprint: Designator=J1 Old Footprint=CON6THR127NOSILK New Footprint=CON6THR127
+Change Component Footprint: Designator=J2 Old Footprint=CON6THR127NOSILK New Footprint=CON6THR127
+Added Member To Class: ClassName=board Member=Component C9 1uF
+Added Member To Class: ClassName=board Member=Component IC12 MPL115A2
+Added Room: Name=board
