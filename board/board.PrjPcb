@@ -107,23 +107,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FPAOOURA
 
 [Document5]
-DocumentPath=..\lib\Project Outputs for rmelo19-library\rmelo19-library.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=Imported board.PrjPcb\board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KAXFYCMH
 
-[Document7]
+[Document6]
 DocumentPath=board.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=board.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
