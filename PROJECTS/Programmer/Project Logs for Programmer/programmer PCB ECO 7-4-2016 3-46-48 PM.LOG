@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=P4 Old DesignItemId=MHDR1X10 New DesignItemId=Header 10
+Change Component Footprint: Designator=P4 Old Footprint=MHDR1X10 New Footprint=HDR1X10
+Change Component Comment : Designator=P4 Old Comment=MHDR1X10 New Comment=Header 10
+Added Room: Name=programmer

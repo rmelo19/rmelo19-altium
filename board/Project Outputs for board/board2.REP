@@ -1,0 +1,315 @@
+*************************************************************
+FileName = board2.GBR
+AutoAperture = True
+*************************************************************
+Generating : Component Side
+      File : board2.GTL
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : _tsilk
+
+    Adding Layer      : _bsilk
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : board2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : _tsilk
+
+    Adding Layer      : _bsilk
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : board2.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : _tsilk
+
+    Adding Layer      : _bsilk
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D14
+    D16
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : board2.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : _tsilk
+
+    Adding Layer      : _bsilk
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : board2.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : _tsilk
+
+    Adding Layer      : _bsilk
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D16
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Solder Side
+      File : board2.GBS
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : _tsilk
+
+    Adding Layer      : _bsilk
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D16
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : board2.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : _tsilk
+
+    Adding Layer      : _bsilk
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D16
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : board2.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : _tsilk
+
+    Adding Layer      : _bsilk
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D28
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : _tsilk
+      File : board2.GM53
+
+    Adding Layer      : _tsilk
+
+    Adding Layer      : _tsilk
+
+    Adding Layer      : _bsilk
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D14
+    D16
+*************************************************************
+
+*************************************************************
+Generating : _bsilk
+      File : board2.GM54
+
+    Adding Layer      : _bsilk
+
+    Adding Layer      : _tsilk
+
+    Adding Layer      : _bsilk
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D14
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : board2.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : _tsilk
+
+    Adding Layer      : _bsilk
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D14
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : board2.GD1
+
+    Adding Layer      : _tsilk
+
+    Adding Layer      : _bsilk
+
+    Adding Layer      : Mechanical 1
+
+    Adding Drill Pair : Component Side-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D14
+    D16
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : board2.GG1
+
+    Adding Layer      : _tsilk
+
+    Adding Layer      : _bsilk
+
+    Adding Layer      : Mechanical 1
+
+    Adding Drill Pair : Component Side-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D14
+    D16
+    D44
+*************************************************************
+

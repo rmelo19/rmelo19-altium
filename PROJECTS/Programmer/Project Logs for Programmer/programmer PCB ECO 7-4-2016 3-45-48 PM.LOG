@@ -1,0 +1,38 @@
+Change Component Designator: OldDesignator=ISP NewDesignator=ISP6PIN
+Change Component Designator: OldDesignator=ISP NewDesignator=ISP10PIN
+Change Component Designator: OldDesignator=POWER NewDesignator=POWER_T
+Added Component: Designator=P4(MHDR1X10)
+Added Pin To Net: NetName=PC3 Pin=P4-1
+Added Pin To Net: NetName=PC3 Pin=U1-26
+Added Net: Name=PC3
+Added Pin To Net: NetName=PC4 Pin=P4-2
+Added Pin To Net: NetName=PC4 Pin=U1-27
+Added Net: Name=PC4
+Added Pin To Net: NetName=PC5 Pin=P4-3
+Added Pin To Net: NetName=PC5 Pin=U1-28
+Added Net: Name=PC5
+Added Pin To Net: NetName=PC6 Pin=P4-4
+Added Pin To Net: NetName=PC6 Pin=U1-19
+Added Net: Name=PC6
+Added Pin To Net: NetName=PC7 Pin=P4-5
+Added Pin To Net: NetName=PC7 Pin=U1-22
+Added Net: Name=PC7
+Added Pin To Net: NetName=PD3 Pin=P4-6
+Added Pin To Net: NetName=PD3 Pin=U1-1
+Added Net: Name=PD3
+Added Pin To Net: NetName=PD4 Pin=P4-7
+Added Pin To Net: NetName=PD4 Pin=U1-2
+Added Net: Name=PD4
+Added Pin To Net: NetName=PD5 Pin=P4-8
+Added Pin To Net: NetName=PD5 Pin=U1-9
+Added Net: Name=PD5
+Added Pin To Net: NetName=PD6 Pin=P4-9
+Added Pin To Net: NetName=PD6 Pin=U1-10
+Added Net: Name=PD6
+Added Pin To Net: NetName=PD7 Pin=P4-10
+Added Pin To Net: NetName=PD7 Pin=U1-11
+Added Net: Name=PD7
+Added Member To Class: ClassName=programmer Member=Component ISP10PIN Header 5X2
+Added Member To Class: ClassName=programmer Member=Component P4 MHDR1X10
+Added Member To Class: ClassName=programmer Member=Component POWER_T TOGGLE SWITCH
+Added Room: Name=programmer

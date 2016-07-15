@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=PSS Pin=SELF PROG-3
+Added Pin To Net: NetName=PSS Pin=SELF PROG-3
+Added Member To Class: ClassName=programmer Member=Component ISP Header 3X2
+Added Member To Class: ClassName=programmer Member=Component POWER TOGGLE SWITCH
+Added Room: Name=programmer

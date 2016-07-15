@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: programmer.PcbDoc   7/5/2016  10:39:56 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : programmer-RoundHoles.TXT
+ASCII SlotHoles File : programmer-SlotHoles.TXT
+EIA File   : programmer.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.406mm)                                           Round             48        PTH        10.72inch (272.28mm)
+T2      28mil (0.701mm)                                           Round             2         PTH        0.16inch (4.06mm)
+T3      28mil (0.711mm)                                           Round             5         PTH        1.57inch (39.95mm)
+T4      35mil (0.899mm)                                           Round             32        PTH        4.05inch (102.76mm)
+T5      24mil (0.599mm)                                           Slot              2         NPTH       0.61inch (15.43mm)
+T6      28mil (0.701mm)                                           Slot              2         NPTH       0.41inch (10.30mm)
+T7      118mil (3mm)                                              Round             4         NPTH       5.10inch (129.54mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              95
+
+Total Processing Time (hh:mm:ss) : 00:00:00

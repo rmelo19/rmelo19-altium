@@ -1,0 +1,56 @@
+
+
+http://www.siongboon.com/projects/2005-09-07_home_pcb_fabrication/footprint/
+
+
+width: 0,16mm = 63mil
+
+
+MICRO USB
+pad height: 1.35mm = 53.15mil
+pad width: 0.4mm = 15.8mil
+central horizontal distance between pads: 0.65mm = 25.6mil
+horizontal distance between holes and pins, closest: (5 - 0.65*4)/2mm = 1.2mm = 47.2mil
+vertical distance: 2.7mm = 106,3mil
+horizontal distance: 3.5mm = 137.8mil	
+lateral holes:
+    1.15mm high = 45.3mil
+    0.5mm wide = 19.7mil
+holes close to the pins:
+    0.85 wide = 33.5mil
+    0.55 high = 21.7mil
+number of pads: 5
+PINS: 1 2 3 4 5
+CHECKED!
+
+
+CRYSTAL:
+pad height: 83mil 
+pad width: 220mil
+central horizontal distance between pads: 374mm
+CHECKED!
+
+
+SWITCH
+pad height: 1,30mm = 51mil
+pad width:  1,55mm = 61mil
+central horizontal distance: 8mm = 315mil
+central vertical distance: 4,5mm = 178mil
+circle diameter: 3,5mm = 135mil
+
+
+TOGGLE SWITCH
+pad height: 100mil
+pad width: 47mil
+central horizontal distance: 100mil
+vertical distance between pads: 218mil
+CHECKED!
+
+DFN FOOTPRINT
+pad height: 0.35mm = 13.8mil
+pad width: 0.18mm = 7.1mil
+central pad height: 0.30mm = 12mil
+central pad width: 0.94mm = 37mil
+horizontal distance between pads: 0.40mm = 16mil
+vertical distance between pads: 1.05mm = 41.3mil
+

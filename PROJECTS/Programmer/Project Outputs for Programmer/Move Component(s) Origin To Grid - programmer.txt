@@ -1,0 +1,41 @@
+Move Component(s) Origin to Grid
+Filename     : C:\Users\Rodrigo\Documents\rmelo19-altium\PROJECTS\Programmer\programmer.PcbDoc
+Date         : 7/3/2016
+Time         : 11:09:13 PM
+Time Elapsed : 00:00:00
+
+
+    Small Component C1-CAP (1600mil,1300mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component C3-CAP (2600mil,1200mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component C4-CAP (2500mil,1200mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component C5-CAP (2200mil,1600mil) on Bottom Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Small Component C6-CAP5 (3560mil,1740mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component C7-CAP5 (3900mil,1740mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component D1-3.6V (1400mil,1300mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component D2-3.6V (1400mil,1400mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component GREEN-LED3 (1180mil,1750mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Component L1-AZ1117CH (3200mil,1760mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SIP Component M1-uUSB_I (1225mil,1220mil) on Top Layer - Component pads are OFF grid. No action taken.
+    DIP Component P1-Header 3X2 (3965mil,1240mil) on Top Layer - Component pads are OFF grid. No action taken.
+    DIP Component P2-Header 5X2 (3210mil,1230mil) on Top Layer - Component pads are OFF grid. No action taken.
+    DIP Component P3-Header 3X2 (4640mil,1180mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SOIC Component POWER TARGET-TOGGLE SWITCH (3200mil,1980mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SOIC Component POWER-TOGGLE SWITCH (2600mil,2000mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component Q1-XTAL (1900mil,1600mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R1-RES (1400mil,1100mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R2-RES (1400mil,1200mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R3-RES (1700mil,1500mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R4-RES (2400mil,1600mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R5-RES (2500mil,1600mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R6-RES (2600mil,1600mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R7-RES (2700mil,1600mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R8-RES (2840mil,1180mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R9-RES (1500mil,1700mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R10-RES (1500mil,1600mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R11-RES (4800mil,1580mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R12-RES (4680mil,1580mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component RED-LED3 (1180mil,1580mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SOIC Component SELF PROGRAMMING-TOGGLE SWITCH (2000mil,2000mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SOIC Component SLOW SCK-TOGGLE SWITCH (1400mil,2000mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    LCC Component U1-ATmega8-16AI (1900mil,1400mil) on Bottom Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+count : 33

@@ -1,0 +1,53 @@
+Added Component: Designator=J1(PIN1)
+Added Component: Designator=J2(PIN1)
+Added Component: Designator=J3(PIN1)
+Added Component: Designator=J4(PIN1)
+Added Component: Designator=J5(PIN1)
+Added Component: Designator=J6(PIN1)
+Added Component: Designator=J7(PIN1)
+Added Component: Designator=J8(PIN1)
+Added Component: Designator=J9(PIN1)
+Added Component: Designator=J10(PIN1)
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=U1-2
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=U1-9
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=U1-10
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=U1-11
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=U1-26
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=U1-27
+Added Net: Name=NetJ7_1
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_1 Pin=U1-28
+Added Net: Name=NetJ8_1
+Added Pin To Net: NetName=NetJ9_1 Pin=J9-1
+Added Pin To Net: NetName=NetJ9_1 Pin=U1-19
+Added Net: Name=NetJ9_1
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-1
+Added Pin To Net: NetName=NetJ10_1 Pin=U1-22
+Added Net: Name=NetJ10_1
+Added Member To Class: ClassName=programmer Member=Component ISP Header 3X2
+Added Member To Class: ClassName=programmer Member=Component J1 Socket
+Added Member To Class: ClassName=programmer Member=Component J2 Socket
+Added Member To Class: ClassName=programmer Member=Component J3 Socket
+Added Member To Class: ClassName=programmer Member=Component J4 Socket
+Added Member To Class: ClassName=programmer Member=Component J5 Socket
+Added Member To Class: ClassName=programmer Member=Component J6 Socket
+Added Member To Class: ClassName=programmer Member=Component J7 Socket
+Added Member To Class: ClassName=programmer Member=Component J8 Socket
+Added Member To Class: ClassName=programmer Member=Component J9 Socket
+Added Member To Class: ClassName=programmer Member=Component J10 Socket
+Added Member To Class: ClassName=programmer Member=Component POWER TOGGLE SWITCH
+Added Room: Name=programmer
